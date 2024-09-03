@@ -6,7 +6,7 @@ We're about to get into a bunch of problems that essentially ask us to implement
 
 For a more serious solution, we can keep it simple with some kind of loop that builds the result.
 
-One more thing worth practicing is implementing `.map` using [`.reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce). Since pretty much anything can be done through `.reduce`, it was at one point popular in interviews to ask candidates to build some other operation without explicit loops, but using only `.reduce`.
+One more thing worth practicing is implementing `.map` using [`.reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce). Since pretty much anything can be done through `.reduce`, it was at one point popular in interviews to ask candidates to build some other operation without explicit loops, instead using only `.reduce`.
 
 It's also possible to consider other built-in functions. For example, LeetCode didn't ask us not to use [`.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)!
 
